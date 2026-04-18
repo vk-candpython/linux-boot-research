@@ -68,7 +68,7 @@
 <summary><b>📁 Click to expand: Message and Platform Detection (FULL CODE)</b></summary>
 
 ```python
-#=================================#
+#===================================#
 # [ OWNER ]
 #     CREATOR  : Vladislav Khudash
 #     AGE      : 17
@@ -78,7 +78,7 @@
 #     DATE     : 02.03.2026
 #     PROJECT  : LINUX-BOOT-RESEARCH
 #     PLATFORM : LINUX
-#=================================#
+#===================================#
 
 MSG = '[ LINBOOT ]\nBOOT HALTED'
 ```
